@@ -1,3 +1,3 @@
-#ING DIEGO MORAN
+ING DIEGO MORAN
 # pruebascursogit
-Curso github
+Curso github @platzi
